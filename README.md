@@ -1,8 +1,12 @@
 # Model-Predictive-Perimeter-Control-with-multi-region-MFDs
 
+## Usage
+
 This is a model predictive perimeter control simulation with multi region MFDs.
 
 It requires 'mpctools' and 'CasADi', both can be acquired [here](https://bitbucket.org/rawlings-group/octave-mpctools/src/master/)
+
+Simply execute the 'run.m' file to run.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
