@@ -25,7 +25,7 @@ Further constraints are decribed bellow.
 
 <img src='https://user-images.githubusercontent.com/28818052/147873749-d105c461-9229-4bcc-83ba-491012ad2e22.png' width='600'>
 
-The specific values are adopted from 'Nikolas Geroliminis, Jack Haddad, and Mohsen Ramezani. Optimal perimeter control for two urban regions with macroscopic fundamental diagrams: A model predictive approach. IEEE Transactions on Intelligent Transportation Systems, 14(1): 348–359, 2013' with some simplication
+The specific values are adopted from ['Nikolas Geroliminis, Jack Haddad, and Mohsen Ramezani. Optimal perimeter control for two urban regions with macroscopic fundamental diagrams: A model predictive approach. IEEE Transactions on Intelligent Transportation Systems, 14(1): 348–359, 2013'](https://ieeexplore.ieee.org/document/6353591) with some simplications.
 
 ## Formulation
 
