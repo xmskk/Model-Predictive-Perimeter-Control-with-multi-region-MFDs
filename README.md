@@ -25,6 +25,10 @@ The dynamics of this network is described as bellow.
 
 Here, 'n' is the accumulation, 'q' is the demand inflow, and 'u' is the perimeter control parameter. 'G' represents the MFD.
 
+The demand inflow is as shown below.
+
+<img src='https://user-images.githubusercontent.com/28818052/147874146-7f8add8c-0c2e-487c-be5b-95bad0f5dfe6.png' width='500'>
+
 Further constraints are decribed bellow.
 
 <img src='https://user-images.githubusercontent.com/28818052/147873749-d105c461-9229-4bcc-83ba-491012ad2e22.png' width='600'>
@@ -42,7 +46,6 @@ In order to find the perimeter control parameter that minimizes the total time s
 The following figures show the results of the simulation when the prediction horizon Nc is equal to 20.
 
 ![Figure_1](https://user-images.githubusercontent.com/28818052/147874145-747626bd-244f-4092-925f-dbe3807edd88.png)
-![Figure_2](https://user-images.githubusercontent.com/28818052/147874146-7f8add8c-0c2e-487c-be5b-95bad0f5dfe6.png)
 ![Figure_3](https://user-images.githubusercontent.com/28818052/147874147-c21bc4c1-f248-49cc-9ab0-955f616ba988.png)
 ![Figure_4](https://user-images.githubusercontent.com/28818052/147874148-e2455d8e-9962-48f0-90d4-5218c8bb7573.png)
 ![Figure_5](https://user-images.githubusercontent.com/28818052/147874149-90513035-4351-4569-862c-28d1b0d9b235.png)
