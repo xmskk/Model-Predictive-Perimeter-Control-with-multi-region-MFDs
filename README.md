@@ -4,7 +4,7 @@
 
 This is a model predictive perimeter control simulation with multi region MFDs.
 
-It requires 'mpctools' and 'CasADi', both can be acquired [here](https://bitbucket.org/rawlings-group/octave-mpctools/src/master/)
+It requires 'mpctools' and 'CasADi', both can be acquired [here](https://bitbucket.org/rawlings-group/octave-mpctools/src/master/).
 
 Simply run the 'run.m' file.
 
@@ -55,6 +55,6 @@ The following figure shows the total time spent per simulation with different va
 
 Here, any results before Nc = 17 can be ignored as they result in a gridlock where maximum accumulation is reached and no outflow is possible.
 
-As for Nc > 17, in creasing the value of Nc significantly decreases the TTS.
+As for Nc > 17, increasing the value of Nc significantly decreases the TTS.
 
 However, after a certain point (around Nc > 30), having longer horizons does not reward more information for the MPC model, and therefore the curve flattens out.
