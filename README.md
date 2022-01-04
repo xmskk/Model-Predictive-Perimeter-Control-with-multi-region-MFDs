@@ -6,7 +6,11 @@ This is a model predictive perimeter control simulation with multi region MFDs.
 
 It requires 'mpctools' and 'CasADi', both can be acquired [here](https://bitbucket.org/rawlings-group/octave-mpctools/src/master/).
 
-Simply run the 'run.m' file.
+Use the function mppc(Nc) in the 'mppc.m' file to run the simulation.
+
+'Nc' specifies the predcition horizon of the MPC.
+
+'run.m' file is used to run the MPC from Nc value of 1 to 40 and report on the results (mainly focusing on Nc=20).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
