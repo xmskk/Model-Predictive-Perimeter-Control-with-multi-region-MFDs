@@ -65,3 +65,16 @@ Here, any results before Nc = 17 can be ignored as they result in a gridlock whe
 As for Nc > 17, increasing the value of Nc significantly decreases the TTS.
 
 However, after a certain point (around Nc > 30), having longer horizons does not reward more information for the MPC model, and therefore the curve flattens out.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Python variant
+
+The same problem has been solved using Python as well.
+
+For this, the [do_mpc](https://www.do-mpc.com/en/latest/index.html) library was used.
+
+The results from the Python code is as shown below.
+
+![mpc_results](https://user-images.githubusercontent.com/28818052/148498706-a610aa3f-d66b-46e9-b05e-ccd8994ba77c.gif)
+
