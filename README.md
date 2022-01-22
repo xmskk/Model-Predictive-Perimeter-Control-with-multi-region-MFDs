@@ -1,5 +1,7 @@
 # Model-Predictive-Perimeter-Control-with-multi-region-MFDs
 
+This is an implementation of ['Nikolas Geroliminis, Jack Haddad, and Mohsen Ramezani. Optimal perimeter control for two urban regions with macroscopic fundamental diagrams: A model predictive approach. IEEE Transactions on Intelligent Transportation Systems, 14(1): 348–359, 2013'](https://ieeexplore.ieee.org/document/6353591)
+
 ## Usage
 
 This is a model predictive perimeter control simulation with multi region MFDs.
